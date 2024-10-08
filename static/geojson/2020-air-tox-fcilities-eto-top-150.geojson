@@ -1,0 +1,2836 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "3965211",
+        "Facility Name": "LANXESS CORPORATION",
+        "FIPS": "45019",
+        "County or Tribe": "Charleston Co",
+        "State": "South Carolina",
+        "Ethylene Oxide": "0.4741"
+      },
+      "geometry": {
+        "coordinates": [
+          -79.964647,
+          32.834061
+        ],
+        "type": "Point"
+      },
+      "id": "02ec75c25e9eafcc05e2c1af06feba1b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "14638611",
+        "Facility Name": "Centurion Medical Products Corporation",
+        "FIPS": "37159",
+        "County or Tribe": "Rowan Co",
+        "State": "North Carolina",
+        "Ethylene Oxide": "0.05403726"
+      },
+      "geometry": {
+        "coordinates": [
+          -80.515363,
+          35.638589
+        ],
+        "type": "Point"
+      },
+      "id": "033a861bf5113b0fcfcacb44d6c0b054"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "5520211",
+        "Facility Name": "INEOS Oxide - A Division of INEOS Americas LLC",
+        "FIPS": "22047",
+        "County or Tribe": "Iberville Par",
+        "State": "Louisiana",
+        "Ethylene Oxide": "0.05879392"
+      },
+      "geometry": {
+        "coordinates": [
+          -91.24327,
+          30.32046
+        ],
+        "type": "Point"
+      },
+      "id": "047e99e546c1302e1b13573a6ef8dbeb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "5504811",
+        "Facility Name": "Taminco - St Gabriel Plant",
+        "FIPS": "22047",
+        "County or Tribe": "Iberville Par",
+        "State": "Louisiana",
+        "Ethylene Oxide": "0.09401448"
+      },
+      "geometry": {
+        "coordinates": [
+          -91.09144,
+          30.24915
+        ],
+        "type": "Point"
+      },
+      "id": "0746e4ac78adcfc727d98990c9efcee7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "6982311",
+        "Facility Name": "Edwards Lifesciences Corporation",
+        "FIPS": "72011",
+        "County or Tribe": "Anasco Mun",
+        "State": "Puerto Rico",
+        "Ethylene Oxide": "0.3904768"
+      },
+      "geometry": {
+        "coordinates": [
+          -67.136691,
+          18.294339
+        ],
+        "type": "Point"
+      },
+      "id": "0cfcfeef6db5b13d326c79a11da045f7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "6633811",
+        "Facility Name": "Evonik Goldshmidt Corp",
+        "FIPS": "51670",
+        "County or Tribe": "Hopewell",
+        "State": "Virginia",
+        "Ethylene Oxide": "0.0379"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.2686,
+          37.29203
+        ],
+        "type": "Point"
+      },
+      "id": "1342246ae0ec6a05b707cc7393162eac"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "7972911",
+        "Facility Name": "Stepan Co",
+        "FIPS": "17197",
+        "County or Tribe": "Will Co",
+        "State": "Illinois",
+        "Ethylene Oxide": "0.121582"
+      },
+      "geometry": {
+        "coordinates": [
+          -88.1597,
+          41.4417
+        ],
+        "type": "Point"
+      },
+      "id": "1396867b54de5f510fd1bb2948510563"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "3699811",
+        "Facility Name": "Sterigenics U.S. LLC",
+        "FIPS": "13067",
+        "County or Tribe": "Cobb Co",
+        "State": "Georgia",
+        "Ethylene Oxide": "0.02764206"
+      },
+      "geometry": {
+        "coordinates": [
+          -84.469223,
+          33.832013
+        ],
+        "type": "Point"
+      },
+      "id": "144ec851f9ea3298fd3b6378b37626eb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "18922211",
+        "Facility Name": "BD Global Distribution Center",
+        "FIPS": "13217",
+        "County or Tribe": "Newton Co",
+        "State": "Georgia",
+        "Ethylene Oxide": "0.07"
+      },
+      "geometry": {
+        "coordinates": [
+          -83.816846,
+          33.606564
+        ],
+        "type": "Point"
+      },
+      "id": "1538b9f01fbac1101a17c6d2ebfca854"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "21481211",
+        "Facility Name": "American Contract Systems, Inc.",
+        "FIPS": "12057",
+        "County or Tribe": "Hillsborough Co",
+        "State": "Florida",
+        "Ethylene Oxide": "0.01378377"
+      },
+      "geometry": {
+        "coordinates": [
+          -82.367809,
+          28.062297
+        ],
+        "type": "Point"
+      },
+      "id": "16963d9c73a678e73d46e28c66172f6b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "3736811",
+        "Facility Name": "SHELL TECHNOLOGY CENTER HOUSTON",
+        "FIPS": "48201",
+        "County or Tribe": "Harris Co",
+        "State": "Texas",
+        "Ethylene Oxide": "0.2509"
+      },
+      "geometry": {
+        "coordinates": [
+          -95.639456,
+          29.722917
+        ],
+        "type": "Point"
+      },
+      "id": "17d7050a273f8bb22949e7e7f191411c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "8417511",
+        "Facility Name": "Willamette Falls Paper Company, Inc.",
+        "FIPS": "41005",
+        "County or Tribe": "Clackamas Co",
+        "State": "Oregon",
+        "Ethylene Oxide": "0.1413"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.6154,
+          45.3564
+        ],
+        "type": "Point"
+      },
+      "id": "1836ebef1ce6d51c5494fb2269d81221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "15717311",
+        "Facility Name": "BLUE LINE STERILIZATION SERVICES",
+        "FIPS": "6041",
+        "County or Tribe": "Marin Co",
+        "State": "California",
+        "Ethylene Oxide": "0.01085807"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.538553,
+          38.075027
+        ],
+        "type": "Point"
+      },
+      "id": "1a8b2b1b4d401c667bfc952c3fb9a027"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "16431311",
+        "Facility Name": "BD Pharmaceutical Systems",
+        "FIPS": "31141",
+        "County or Tribe": "Platte Co",
+        "State": "Nebraska",
+        "Ethylene Oxide": "0.9370477"
+      },
+      "geometry": {
+        "coordinates": [
+          -97.3175,
+          41.434746
+        ],
+        "type": "Point"
+      },
+      "id": "1ac2570caa116aefbc95747b31f43dfa"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "21482511",
+        "Facility Name": "Medtronic Puerto Rico Operations Company (MPROC Juncos)",
+        "FIPS": "72077",
+        "County or Tribe": "Juncos Mun",
+        "State": "Puerto Rico",
+        "Ethylene Oxide": "0.02501978"
+      },
+      "geometry": {
+        "coordinates": [
+          -65.909774,
+          18.231596
+        ],
+        "type": "Point"
+      },
+      "id": "1ada273b67282e8d516ff2ec0c950378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "2845011",
+        "Facility Name": "Sterilization Services Of Tenessee",
+        "FIPS": "47157",
+        "County or Tribe": "Shelby Co",
+        "State": "Tennessee",
+        "Ethylene Oxide": "1.50454225"
+      },
+      "geometry": {
+        "coordinates": [
+          -90.060587,
+          35.081629
+        ],
+        "type": "Point"
+      },
+      "id": "1c78c593447e680e2757cfacaab80e44"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "17905711",
+        "Facility Name": "Lotte Chemical Louisiana LLC",
+        "FIPS": "22019",
+        "County or Tribe": "Calcasieu Par",
+        "State": "Louisiana",
+        "Ethylene Oxide": "1.24373013"
+      },
+      "geometry": {
+        "coordinates": [
+          -93.28155,
+          30.21399
+        ],
+        "type": "Point"
+      },
+      "id": "1e125e36151aec71d4ee1539bd3c5612"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "2686511",
+        "Facility Name": "Becton Dickinson",
+        "FIPS": "13217",
+        "County or Tribe": "Newton Co",
+        "State": "Georgia",
+        "Ethylene Oxide": "0.10033898"
+      },
+      "geometry": {
+        "coordinates": [
+          -83.840741,
+          33.60785
+        ],
+        "type": "Point"
+      },
+      "id": "246fdfc0c938c0e45cf9eec4453944dc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "7202911",
+        "Facility Name": "Union Carbide Corp - St Charles Plant",
+        "FIPS": "22089",
+        "County or Tribe": "St Charles Par",
+        "State": "Louisiana",
+        "Ethylene Oxide": "3.743536"
+      },
+      "geometry": {
+        "coordinates": [
+          -90.446,
+          29.98378
+        ],
+        "type": "Point"
+      },
+      "id": "24896694161dd0321b1b55d3dad8567d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "7281511",
+        "Facility Name": "BCP INGREDIENTS VERONA PLANT",
+        "FIPS": "29109",
+        "County or Tribe": "Lawrence Co",
+        "State": "Missouri",
+        "Ethylene Oxide": "0.455965"
+      },
+      "geometry": {
+        "coordinates": [
+          -93.7991,
+          36.9646
+        ],
+        "type": "Point"
+      },
+      "id": "27fb1ebf79d9c9fdd9e26fdc81ad68da"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "4315911",
+        "Facility Name": "Sterilization Services Of Georgia",
+        "FIPS": "13121",
+        "County or Tribe": "Fulton Co",
+        "State": "Georgia",
+        "Ethylene Oxide": "0.04760903"
+      },
+      "geometry": {
+        "coordinates": [
+          -84.583823,
+          33.726446
+        ],
+        "type": "Point"
+      },
+      "id": "291bad49684606067fbcb8afaa17d139"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "8335011",
+        "Facility Name": "Lamberti Synthesis USA, Inc.",
+        "FIPS": "47065",
+        "County or Tribe": "Hamilton Co",
+        "State": "Tennessee",
+        "Ethylene Oxide": "0.061"
+      },
+      "geometry": {
+        "coordinates": [
+          -85.2452,
+          35.08648
+        ],
+        "type": "Point"
+      },
+      "id": "29cf69fcfb790395ac182c2a7a1d9ce0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "7351811",
+        "Facility Name": "Monument Chemical Kentucky LLC",
+        "FIPS": "21163",
+        "County or Tribe": "Meade Co",
+        "State": "Kentucky",
+        "Ethylene Oxide": "1.025"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.121389,
+          38.003333
+        ],
+        "type": "Point"
+      },
+      "id": "2c37e14e1b2eea79b2e4e6743e6772df"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "5383511",
+        "Facility Name": "VAN DIEST SUPPLY COMPANY",
+        "FIPS": "19079",
+        "County or Tribe": "Hamilton Co",
+        "State": "Iowa",
+        "Ethylene Oxide": "0.01057375"
+      },
+      "geometry": {
+        "coordinates": [
+          -93.888672,
+          42.468862
+        ],
+        "type": "Point"
+      },
+      "id": "32b69fa30b95cb8b23312fbd023c3104"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "5846511",
+        "Facility Name": "SEADRIFT PLANT",
+        "FIPS": "48057",
+        "County or Tribe": "Calhoun Co",
+        "State": "Texas",
+        "Ethylene Oxide": "2.1778"
+      },
+      "geometry": {
+        "coordinates": [
+          -96.768964,
+          28.509731
+        ],
+        "type": "Point"
+      },
+      "id": "33e761939f848263066e425cb41faeae"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "6755311",
+        "Facility Name": "Ethicon Inc",
+        "FIPS": "48451",
+        "County or Tribe": "Tom Green Co",
+        "State": "Texas",
+        "Ethylene Oxide": "0.80754936"
+      },
+      "geometry": {
+        "coordinates": [
+          -100.391707,
+          31.476162
+        ],
+        "type": "Point"
+      },
+      "id": "34db0c4382953ae4254aed13538016f0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "8468011",
+        "Facility Name": "Sasol Chemicals (USA) LLC - Lake Charles Chemical Complex",
+        "FIPS": "22019",
+        "County or Tribe": "Calcasieu Par",
+        "State": "Louisiana",
+        "Ethylene Oxide": "2.35078733"
+      },
+      "geometry": {
+        "coordinates": [
+          -93.27404,
+          30.25136
+        ],
+        "type": "Point"
+      },
+      "id": "3653f1844e706917d2edb1472dd98a61"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "18809411",
+        "Facility Name": "ARTHREX MANUFACTURING INC",
+        "FIPS": "12021",
+        "County or Tribe": "Collier Co",
+        "State": "Florida",
+        "Ethylene Oxide": "0.12720897"
+      },
+      "geometry": {
+        "coordinates": [
+          -81.446812,
+          26.297564
+        ],
+        "type": "Point"
+      },
+      "id": "370024452adc97f63b44e1b665bdef5a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "17913211",
+        "Facility Name": "OXITENO PASADENA PLANT",
+        "FIPS": "48201",
+        "County or Tribe": "Harris Co",
+        "State": "Texas",
+        "Ethylene Oxide": "0.0363"
+      },
+      "geometry": {
+        "coordinates": [
+          -95.060978,
+          29.60875
+        ],
+        "type": "Point"
+      },
+      "id": "3b13beb9b3fd73783f2a0541683ff895"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "7559211",
+        "Facility Name": "University of Utah- University of Utah facilities",
+        "FIPS": "49035",
+        "County or Tribe": "Salt Lake Co",
+        "State": "Utah",
+        "Ethylene Oxide": "0.023479"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.83647,
+          40.763136
+        ],
+        "type": "Point"
+      },
+      "id": "3b9a3f8fe03e337f7853c686afa83fd2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "588911",
+        "Facility Name": "CRODA INC.",
+        "FIPS": "10003",
+        "County or Tribe": "New Castle Co",
+        "State": "Delaware",
+        "Ethylene Oxide": "2.031519"
+      },
+      "geometry": {
+        "coordinates": [
+          -75.541666,
+          39.692222
+        ],
+        "type": "Point"
+      },
+      "id": "3c5ed00a9b5d3e36f4d6b6c796fe6461"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "8158611",
+        "Facility Name": "BASF Corporation - Chemical Plants",
+        "FIPS": "26163",
+        "County or Tribe": "Wayne Co",
+        "State": "Michigan",
+        "Ethylene Oxide": "0.0805"
+      },
+      "geometry": {
+        "coordinates": [
+          -83.1459,
+          42.2183
+        ],
+        "type": "Point"
+      },
+      "id": "3ccb17e0630b7518b498c4c088219848"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "3868611",
+        "Facility Name": "LIVANOVA",
+        "FIPS": "8059",
+        "County or Tribe": "Jefferson Co",
+        "State": "Colorado",
+        "Ethylene Oxide": "0.085"
+      },
+      "geometry": {
+        "coordinates": [
+          -105.160261,
+          39.814964
+        ],
+        "type": "Point"
+      },
+      "id": "3efcc135ed9fa1f3abd0b9bd07a897c1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "6884411",
+        "Facility Name": "UNION CARBIDE CORPORATION-INSTITUTE",
+        "FIPS": "54039",
+        "County or Tribe": "Kanawha Co",
+        "State": "West Virginia",
+        "Ethylene Oxide": "0.4759"
+      },
+      "geometry": {
+        "coordinates": [
+          -81.7777,
+          38.3836
+        ],
+        "type": "Point"
+      },
+      "id": "3fedb0e8255baf73d4aba296cf5b077f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "1047511",
+        "Facility Name": "LEMCO ARDMORE",
+        "FIPS": "40019",
+        "County or Tribe": "Carter Co",
+        "State": "Oklahoma",
+        "Ethylene Oxide": "0.2728097"
+      },
+      "geometry": {
+        "coordinates": [
+          -97.138916,
+          34.13513
+        ],
+        "type": "Point"
+      },
+      "id": "40950d8d863343959316ca970e9ec4f3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "21482011",
+        "Facility Name": "Fuchs North America",
+        "FIPS": "24013",
+        "County or Tribe": "Carroll Co",
+        "State": "Maryland",
+        "Ethylene Oxide": "0.06842854"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.861276,
+          39.613631
+        ],
+        "type": "Point"
+      },
+      "id": "41f02573eb7dd86fbaa359e62dad0e65"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "4853011",
+        "Facility Name": "HOUSTON PLANT",
+        "FIPS": "48157",
+        "County or Tribe": "Fort Bend Co",
+        "State": "Texas",
+        "Ethylene Oxide": "0.1597"
+      },
+      "geometry": {
+        "coordinates": [
+          -95.433208,
+          29.583381
+        ],
+        "type": "Point"
+      },
+      "id": "42addc395f7a6ce8141441401d301082"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "19148211",
+        "Facility Name": "Fiber Industries, LLC",
+        "FIPS": "45031",
+        "County or Tribe": "Darlington Co",
+        "State": "South Carolina",
+        "Ethylene Oxide": "0.0251048"
+      },
+      "geometry": {
+        "coordinates": [
+          -79.80737,
+          34.273209
+        ],
+        "type": "Point"
+      },
+      "id": "434e3050047710a7e8a8593bc953ece3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "7572911",
+        "Facility Name": "Baldwin Filters Inc",
+        "FIPS": "31019",
+        "County or Tribe": "Buffalo Co",
+        "State": "Nebraska",
+        "Ethylene Oxide": "0.34"
+      },
+      "geometry": {
+        "coordinates": [
+          -99.0186,
+          40.710001
+        ],
+        "type": "Point"
+      },
+      "id": "437201f0280ed9a0b5a51df7c2883f17"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "15515811",
+        "Facility Name": "Steri-Tech, Inc.",
+        "FIPS": "72123",
+        "County or Tribe": "Salinas Mun",
+        "State": "Puerto Rico",
+        "Ethylene Oxide": "0.52479305"
+      },
+      "geometry": {
+        "coordinates": [
+          -66.300634,
+          17.970697
+        ],
+        "type": "Point"
+      },
+      "id": "46a9c693f0e61eaabc3e3e0c72e531a2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "8155611",
+        "Facility Name": "PROFESSIONAL CONTRACT",
+        "FIPS": "25005",
+        "County or Tribe": "Bristol Co",
+        "State": "Massachusetts",
+        "Ethylene Oxide": "0.14543841"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.1429,
+          41.947904
+        ],
+        "type": "Point"
+      },
+      "id": "47e350fec5452d84fcbb4127e762eab7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "21483011",
+        "Facility Name": "Stryker Sustainability Solutions",
+        "FIPS": "4013",
+        "County or Tribe": "Maricopa Co",
+        "State": "Arizona",
+        "Ethylene Oxide": "0.05658755"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.973499,
+          33.353048
+        ],
+        "type": "Point"
+      },
+      "id": "48eddc8f77723c06a73ff7d4bc76df31"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "4057911",
+        "Facility Name": "CLEAR LAKE PLANT",
+        "FIPS": "48201",
+        "County or Tribe": "Harris Co",
+        "State": "Texas",
+        "Ethylene Oxide": "1.2859"
+      },
+      "geometry": {
+        "coordinates": [
+          -95.062222,
+          29.624444
+        ],
+        "type": "Point"
+      },
+      "id": "4951bbea7c8ff55fa89412c648e28f65"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "4941611",
+        "Facility Name": "BAYPORT PLANT",
+        "FIPS": "48201",
+        "County or Tribe": "Harris Co",
+        "State": "Texas",
+        "Ethylene Oxide": "0.043"
+      },
+      "geometry": {
+        "coordinates": [
+          -95.044708,
+          29.647761
+        ],
+        "type": "Point"
+      },
+      "id": "49bfdbe3e337ab8e3408d5bbf868c8f1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "8409411",
+        "Facility Name": "STERIGENICS US LLC",
+        "FIPS": "36115",
+        "County or Tribe": "Washington Co",
+        "State": "New York",
+        "Ethylene Oxide": "1.25660532"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.59798,
+          43.349115
+        ],
+        "type": "Point"
+      },
+      "id": "4a0562b3828884be9766eb7a168fa65a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "4925311",
+        "Facility Name": "BAYPORT PLANT",
+        "FIPS": "48201",
+        "County or Tribe": "Harris Co",
+        "State": "Texas",
+        "Ethylene Oxide": "0.0141"
+      },
+      "geometry": {
+        "coordinates": [
+          -95.064397,
+          29.646433
+        ],
+        "type": "Point"
+      },
+      "id": "4c238b49208100b2507b1d8c839cdcc7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "3765611",
+        "Facility Name": "Medical Mfg  Corp",
+        "FIPS": "42049",
+        "County or Tribe": "Erie Co",
+        "State": "Pennsylvania",
+        "Ethylene Oxide": "0.41614246"
+      },
+      "geometry": {
+        "coordinates": [
+          -80.022317,
+          42.123629
+        ],
+        "type": "Point"
+      },
+      "id": "4e19d895464e9627efdb2d1c84ec75d6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "7443111",
+        "Facility Name": "Ashland Specialty Ingredients",
+        "FIPS": "34023",
+        "County or Tribe": "Middlesex Co",
+        "State": "New Jersey",
+        "Ethylene Oxide": "0.066305"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.333121,
+          40.449927
+        ],
+        "type": "Point"
+      },
+      "id": "52e8ef3e2a0e36d452fa45ec0b7d6ec5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "8209311",
+        "Facility Name": "Equistar Chemicals LP",
+        "FIPS": "17063",
+        "County or Tribe": "Grundy Co",
+        "State": "Illinois",
+        "Ethylene Oxide": "0.09198"
+      },
+      "geometry": {
+        "coordinates": [
+          -88.329265,
+          41.411031
+        ],
+        "type": "Point"
+      },
+      "id": "52fef6964cca62472f6de0fab0ac398e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "6449011",
+        "Facility Name": "STERIS Inc",
+        "FIPS": "27003",
+        "County or Tribe": "Anoka Co",
+        "State": "Minnesota",
+        "Ethylene Oxide": "0.08997089"
+      },
+      "geometry": {
+        "coordinates": [
+          -93.27529,
+          45.13416
+        ],
+        "type": "Point"
+      },
+      "id": "531909419edcdebb56a66fb87ecc6497"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "4058411",
+        "Facility Name": "EAGLE RAILCAR CHANNELVIEW FACILITY",
+        "FIPS": "48201",
+        "County or Tribe": "Harris Co",
+        "State": "Texas",
+        "Ethylene Oxide": "0.0686"
+      },
+      "geometry": {
+        "coordinates": [
+          -95.146814,
+          29.77485
+        ],
+        "type": "Point"
+      },
+      "id": "585f0a816b05b8230809c310115e0c62"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "4941411",
+        "Facility Name": "CHANNELVIEW PLANT",
+        "FIPS": "48201",
+        "County or Tribe": "Harris Co",
+        "State": "Texas",
+        "Ethylene Oxide": "1.395"
+      },
+      "geometry": {
+        "coordinates": [
+          -95.100281,
+          29.814975
+        ],
+        "type": "Point"
+      },
+      "id": "59b08b4f9c081e55be30efd758e6dd54"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "5011811",
+        "Facility Name": "Vantage Specialties Inc",
+        "FIPS": "17097",
+        "County or Tribe": "Lake Co",
+        "State": "Illinois",
+        "Ethylene Oxide": "0.031211"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.89949,
+          42.38378
+        ],
+        "type": "Point"
+      },
+      "id": "5b062731c8e377da9d844ecd164af1e1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "7582111",
+        "Facility Name": "Sterigenics - Santa Teresa Facility",
+        "FIPS": "35013",
+        "County or Tribe": "Dona Ana Co",
+        "State": "New Mexico",
+        "Ethylene Oxide": "3.72439453"
+      },
+      "geometry": {
+        "coordinates": [
+          -106.688217,
+          31.860651
+        ],
+        "type": "Point"
+      },
+      "id": "5c19519be72193aa952d49406b1dffbb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "16058311",
+        "Facility Name": "STERIS, INC.",
+        "FIPS": "6065",
+        "County or Tribe": "Riverside Co",
+        "State": "California",
+        "Ethylene Oxide": "0.0137016"
+      },
+      "geometry": {
+        "coordinates": [
+          -117.159264,
+          33.501175
+        ],
+        "type": "Point"
+      },
+      "id": "5df29ee8fca7b1b567dcb82af196bacc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "5734011",
+        "Facility Name": "Graphic Packaging International LLC - West Monroe Mill 31",
+        "FIPS": "22073",
+        "County or Tribe": "Ouachita Par",
+        "State": "Louisiana",
+        "Ethylene Oxide": "0.011364"
+      },
+      "geometry": {
+        "coordinates": [
+          -92.15267,
+          32.48507
+        ],
+        "type": "Point"
+      },
+      "id": "60599a30042608e65354e863e37e685b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "4945211",
+        "Facility Name": "PORT NECHES OPERATIONS",
+        "FIPS": "48245",
+        "County or Tribe": "Jefferson Co",
+        "State": "Texas",
+        "Ethylene Oxide": "6.0381"
+      },
+      "geometry": {
+        "coordinates": [
+          -93.929225,
+          29.963658
+        ],
+        "type": "Point"
+      },
+      "id": "647c5d2654beeb02ca9a72dde9144786"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "8467311",
+        "Facility Name": "The Dow Chemical Company - Louisiana Operations",
+        "FIPS": "22047",
+        "County or Tribe": "Iberville Par",
+        "State": "Louisiana",
+        "Ethylene Oxide": "1.3611615"
+      },
+      "geometry": {
+        "coordinates": [
+          -91.23612,
+          30.32047
+        ],
+        "type": "Point"
+      },
+      "id": "656bbcdff5858c22235e40d1a9519432"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "5768911",
+        "Facility Name": "Hercules Inc Aqualon Div",
+        "FIPS": "51670",
+        "County or Tribe": "Hopewell",
+        "State": "Virginia",
+        "Ethylene Oxide": "0.5"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.2755,
+          37.2877
+        ],
+        "type": "Point"
+      },
+      "id": "69f752a7e53134673acc4b76c7eddb91"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "21480711",
+        "Facility Name": "American Contract Systems Inc",
+        "FIPS": "6065",
+        "County or Tribe": "Riverside Co",
+        "State": "California",
+        "Ethylene Oxide": "0.023413"
+      },
+      "geometry": {
+        "coordinates": [
+          -117.286709,
+          33.906522
+        ],
+        "type": "Point"
+      },
+      "id": "6afaea34a5c83c6bddbf866a5150f815"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "3832911",
+        "Facility Name": "TERUMO BCT STERILIZATION SCVS - LAKEWOOD",
+        "FIPS": "8059",
+        "County or Tribe": "Jefferson Co",
+        "State": "Colorado",
+        "Ethylene Oxide": "0.4662163"
+      },
+      "geometry": {
+        "coordinates": [
+          -105.127822,
+          39.733605
+        ],
+        "type": "Point"
+      },
+      "id": "6ba0a4a2c38f206dfd1d5236c6ebddd9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "4792511",
+        "Facility Name": "Anderson Hospital",
+        "FIPS": "17119",
+        "County or Tribe": "Madison Co",
+        "State": "Illinois",
+        "Ethylene Oxide": "0.031668"
+      },
+      "geometry": {
+        "coordinates": [
+          -89.946221,
+          38.736681
+        ],
+        "type": "Point"
+      },
+      "id": "6c7c5fbc5c81770c08e6ed65f64d00ae"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "8465311",
+        "Facility Name": "Rubicon LLC - Geismar Facility",
+        "FIPS": "22005",
+        "County or Tribe": "Ascension Par",
+        "State": "Louisiana",
+        "Ethylene Oxide": "0.03864058"
+      },
+      "geometry": {
+        "coordinates": [
+          -91.00617,
+          30.20043
+        ],
+        "type": "Point"
+      },
+      "id": "718940a9272c42f6256f24902596dfb3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "18988311",
+        "Facility Name": "AMERICAN CONTRACT SYSTEMS INC",
+        "FIPS": "55025",
+        "County or Tribe": "Dane Co",
+        "State": "Wisconsin",
+        "Ethylene Oxide": "0.03535983"
+      },
+      "geometry": {
+        "coordinates": [
+          -89.435805,
+          43.179333
+        ],
+        "type": "Point"
+      },
+      "id": "71f1b8f0c455cf92fc0a1823038044bf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "6885911",
+        "Facility Name": "Covestro LLC - SOUTH CHARLESTON",
+        "FIPS": "54039",
+        "County or Tribe": "Kanawha Co",
+        "State": "West Virginia",
+        "Ethylene Oxide": "0.0798"
+      },
+      "geometry": {
+        "coordinates": [
+          -81.68333,
+          38.37
+        ],
+        "type": "Point"
+      },
+      "id": "72288476558daf4f6cd19a43da683cfa"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "5997411",
+        "Facility Name": "Elite Spice",
+        "FIPS": "24027",
+        "County or Tribe": "Howard Co",
+        "State": "Maryland",
+        "Ethylene Oxide": "0.15208516"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.775893,
+          39.174177
+        ],
+        "type": "Point"
+      },
+      "id": "747c33d227f7a8bece0869b609bed021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "7125311",
+        "Facility Name": "Cosmed Of California",
+        "FIPS": "6073",
+        "County or Tribe": "San Diego Co",
+        "State": "California",
+        "Ethylene Oxide": "0.07328606"
+      },
+      "geometry": {
+        "coordinates": [
+          -116.976531,
+          32.565098
+        ],
+        "type": "Point"
+      },
+      "id": "759f6a1fdf4d84fd06e013a213b2376a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "2534011",
+        "Facility Name": "KPR U.S., LLC d/b/a Kendall Patient Recovery U.S., LLC",
+        "FIPS": "13245",
+        "County or Tribe": "Richmond Co",
+        "State": "Georgia",
+        "Ethylene Oxide": "0.02675211"
+      },
+      "geometry": {
+        "coordinates": [
+          -81.986241,
+          33.394643
+        ],
+        "type": "Point"
+      },
+      "id": "7752a605b7399c60c87fa77cbd552064"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "4359211",
+        "Facility Name": "Medtronic Xomed",
+        "FIPS": "12031",
+        "County or Tribe": "Duval Co",
+        "State": "Florida",
+        "Ethylene Oxide": "0.11273569"
+      },
+      "geometry": {
+        "coordinates": [
+          -81.592387,
+          30.255987
+        ],
+        "type": "Point"
+      },
+      "id": "785f9b83d88fa8653a7d63deac0c3db8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "7647011",
+        "Facility Name": "COSMED GROUP INC",
+        "FIPS": "34039",
+        "County or Tribe": "Union Co",
+        "State": "New Jersey",
+        "Ethylene Oxide": "0.19606351"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.213866,
+          40.641059
+        ],
+        "type": "Point"
+      },
+      "id": "7b21909c8eb0a67f4a91b7d7a79d9f60"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "19000311",
+        "Facility Name": "VALLEY MEDICAL FACILITIES INC/HERITAGE VALLEY BEAVER",
+        "FIPS": "42007",
+        "County or Tribe": "Beaver Co",
+        "State": "Pennsylvania",
+        "Ethylene Oxide": "0.0231"
+      },
+      "geometry": {
+        "coordinates": [
+          -80.32307,
+          40.71186
+        ],
+        "type": "Point"
+      },
+      "id": "7c2e6182192bb1e0f417c84c4b790ebe"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "4941511",
+        "Facility Name": "TEXAS OPERATIONS",
+        "FIPS": "48203",
+        "County or Tribe": "Harrison Co",
+        "State": "Texas",
+        "Ethylene Oxide": "1.8768"
+      },
+      "geometry": {
+        "coordinates": [
+          -94.685072,
+          32.438981
+        ],
+        "type": "Point"
+      },
+      "id": "7cf33aae479ad74257ea63293636c726"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "8142611",
+        "Facility Name": "STERIS CORPORATION",
+        "FIPS": "25027",
+        "County or Tribe": "Worcester Co",
+        "State": "Massachusetts",
+        "Ethylene Oxide": "0.03905078"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.631214,
+          42.352526
+        ],
+        "type": "Point"
+      },
+      "id": "7e1639922f5af41ade1751d6ce6e5f5d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "12775411",
+        "Facility Name": "INTERNATIONAL STERILIZATION LABORATORY",
+        "FIPS": "12069",
+        "County or Tribe": "Lake Co",
+        "State": "Florida",
+        "Ethylene Oxide": "0.17486775"
+      },
+      "geometry": {
+        "coordinates": [
+          -81.838398,
+          28.560316
+        ],
+        "type": "Point"
+      },
+      "id": "7e9f0aa1c2f287312a0adc2b5ed26cdd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "17953611",
+        "Facility Name": "STERILIZATION SERVICES OF VIRGINIA",
+        "FIPS": "51087",
+        "County or Tribe": "Henrico Co",
+        "State": "Virginia",
+        "Ethylene Oxide": "3.72882105"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.356608,
+          37.503408
+        ],
+        "type": "Point"
+      },
+      "id": "802b00da18e4ec82e4803be40e960e83"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "4101811",
+        "Facility Name": "INGEVITY SOUTH CAROLINA LLC",
+        "FIPS": "45019",
+        "County or Tribe": "Charleston Co",
+        "State": "South Carolina",
+        "Ethylene Oxide": "0.01074997"
+      },
+      "geometry": {
+        "coordinates": [
+          -79.96866,
+          32.897435
+        ],
+        "type": "Point"
+      },
+      "id": "80831e2a325392f297264d8651b91a93"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "10725011",
+        "Facility Name": "HMH Hospital Corporation JFK Medical Center",
+        "FIPS": "34023",
+        "County or Tribe": "Middlesex Co",
+        "State": "New Jersey",
+        "Ethylene Oxide": "0.01441"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.350474,
+          40.557254
+        ],
+        "type": "Point"
+      },
+      "id": "82274f17d8a290c8efd457302ea8d3a4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "21482611",
+        "Facility Name": "Medtronic PR Operation Co.",
+        "FIPS": "72149",
+        "County or Tribe": "Villalba Mun",
+        "State": "Puerto Rico",
+        "Ethylene Oxide": "0.12456402"
+      },
+      "geometry": {
+        "coordinates": [
+          -66.497997,
+          18.127634
+        ],
+        "type": "Point"
+      },
+      "id": "82e881504fb50a41e07f2361ece7bb33"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "12847611",
+        "Facility Name": "JORGENSEN LABORATORIES, INC.",
+        "FIPS": "8069",
+        "County or Tribe": "Larimer Co",
+        "State": "Colorado",
+        "Ethylene Oxide": "0.02168595"
+      },
+      "geometry": {
+        "coordinates": [
+          -105.107997,
+          40.402328
+        ],
+        "type": "Point"
+      },
+      "id": "8309b24d66f52df6a3c383cd64333694"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "8082111",
+        "Facility Name": "Harcros Chemicals - Kansas City",
+        "FIPS": "20209",
+        "County or Tribe": "Wyandotte Co",
+        "State": "Kansas",
+        "Ethylene Oxide": "3.36"
+      },
+      "geometry": {
+        "coordinates": [
+          -94.697378,
+          39.097443
+        ],
+        "type": "Point"
+      },
+      "id": "8380ba492a25ac88124e61af1b5d2e0f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "17953511",
+        "Facility Name": "ELITE SPICE INC",
+        "FIPS": "24003",
+        "County or Tribe": "Anne Arundel Co",
+        "State": "Maryland",
+        "Ethylene Oxide": "0.28454511"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.717131,
+          39.173615
+        ],
+        "type": "Point"
+      },
+      "id": "8398f0bcd313affb141bb2fdda237bb6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "9061511",
+        "Facility Name": "Midwest Sterilization Corp",
+        "FIPS": "48479",
+        "County or Tribe": "Webb Co",
+        "State": "Texas",
+        "Ethylene Oxide": "4.33396808"
+      },
+      "geometry": {
+        "coordinates": [
+          -99.503644,
+          27.620069
+        ],
+        "type": "Point"
+      },
+      "id": "8641f7d20eb2f94a9302c35bf53e64f3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "6721211",
+        "Facility Name": "Cosmed Sterilization",
+        "FIPS": "34023",
+        "County or Tribe": "Middlesex Co",
+        "State": "New Jersey",
+        "Ethylene Oxide": "0.158127"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.429647,
+          40.568808
+        ],
+        "type": "Point"
+      },
+      "id": "8863555d45f83e2e4a0b435e3ed91b61"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "17622611",
+        "Facility Name": "ST JUDE MEDICAL PUERTO RICO LLC",
+        "FIPS": "72013",
+        "County or Tribe": "Arecibo Mun",
+        "State": "Puerto Rico",
+        "Ethylene Oxide": "0.0091518"
+      },
+      "geometry": {
+        "coordinates": [
+          -66.660667,
+          18.4571
+        ],
+        "type": "Point"
+      },
+      "id": "8922bc2261dcd82c5f3f5ba9fdab4b22"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "12807311",
+        "Facility Name": "UNIVERSITY OF IOWA",
+        "FIPS": "19103",
+        "County or Tribe": "Johnson Co",
+        "State": "Iowa",
+        "Ethylene Oxide": "0.02096"
+      },
+      "geometry": {
+        "coordinates": [
+          -91.547775,
+          41.661322
+        ],
+        "type": "Point"
+      },
+      "id": "8a2c74c659ce58614e78c9ada2af9d2c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "21482211",
+        "Facility Name": "Long Island Sterilization",
+        "FIPS": "36103",
+        "County or Tribe": "Suffolk Co",
+        "State": "New York",
+        "Ethylene Oxide": "0.02954972"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.266284,
+          40.812559
+        ],
+        "type": "Point"
+      },
+      "id": "8ab5c69b54eb7a4ef7927a09e2b13274"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "7842111",
+        "Facility Name": "Arrow International, Inc. - Asheboro",
+        "FIPS": "37151",
+        "County or Tribe": "Randolph Co",
+        "State": "North Carolina",
+        "Ethylene Oxide": "0.24516983"
+      },
+      "geometry": {
+        "coordinates": [
+          -79.815055,
+          35.778587
+        ],
+        "type": "Point"
+      },
+      "id": "8c4333893f3be52871d7decefa1cc9e6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "9132811",
+        "Facility Name": "Sterigenics US LLC",
+        "FIPS": "48439",
+        "County or Tribe": "Tarrant Co",
+        "State": "Texas",
+        "Ethylene Oxide": "1.08033373"
+      },
+      "geometry": {
+        "coordinates": [
+          -97.044376,
+          32.789187
+        ],
+        "type": "Point"
+      },
+      "id": "8fb0ff5906cbd01f51c18a9552ea4bc2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "7891211",
+        "Facility Name": "INGREDION INCORPORATED",
+        "FIPS": "19113",
+        "County or Tribe": "Linn Co",
+        "State": "Iowa",
+        "Ethylene Oxide": "0.110485"
+      },
+      "geometry": {
+        "coordinates": [
+          -91.665804,
+          41.969368
+        ],
+        "type": "Point"
+      },
+      "id": "94c09d8cb753bbe661b32f55aa90aa61"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "7307111",
+        "Facility Name": "Ethylene Oxide Commercial Sterilization",
+        "FIPS": "49035",
+        "County or Tribe": "Salt Lake Co",
+        "State": "Utah",
+        "Ethylene Oxide": "0.98591733"
+      },
+      "geometry": {
+        "coordinates": [
+          -112.027584,
+          40.780365
+        ],
+        "type": "Point"
+      },
+      "id": "96953fbc73c2bf32e49ef2d259f299e3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "8140511",
+        "Facility Name": "Medline Industries Inc Northpoint Services Div",
+        "FIPS": "17097",
+        "County or Tribe": "Lake Co",
+        "State": "Illinois",
+        "Ethylene Oxide": "0.0226908"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.889014,
+          42.336931
+        ],
+        "type": "Point"
+      },
+      "id": "96e92ac860a6430da0a4c9385b581139"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "5782311",
+        "Facility Name": "UNION CARBIDE CORP -SO CHARLESTON FAC.",
+        "FIPS": "54039",
+        "County or Tribe": "Kanawha Co",
+        "State": "West Virginia",
+        "Ethylene Oxide": "0.1044"
+      },
+      "geometry": {
+        "coordinates": [
+          -81.6831,
+          38.3693
+        ],
+        "type": "Point"
+      },
+      "id": "974f429721e908560fa2e9d85c7e1353"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "4120211",
+        "Facility Name": "ARXADA LLC/WILLIAMSPORT PLT",
+        "FIPS": "42081",
+        "County or Tribe": "Lycoming Co",
+        "State": "Pennsylvania",
+        "Ethylene Oxide": "0.236"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.08014,
+          41.23123
+        ],
+        "type": "Point"
+      },
+      "id": "9a9638a09a95e2edaa2afb708a90da4a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "5287111",
+        "Facility Name": "Evonik Corp - Reserve Plant",
+        "FIPS": "22095",
+        "County or Tribe": "St John The Baptist",
+        "State": "Louisiana",
+        "Ethylene Oxide": "0.83106945"
+      },
+      "geometry": {
+        "coordinates": [
+          -90.57575,
+          30.06929
+        ],
+        "type": "Point"
+      },
+      "id": "9c62110921acb2a9db4303fb9918878a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "21480911",
+        "Facility Name": "American Contract Systems",
+        "FIPS": "29047",
+        "County or Tribe": "Clay Co",
+        "State": "Missouri",
+        "Ethylene Oxide": "0.03069673"
+      },
+      "geometry": {
+        "coordinates": [
+          -94.53329,
+          39.150038
+        ],
+        "type": "Point"
+      },
+      "id": "9d4a5005b19d49e2ed9ccbd5437ce8b8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "2843211",
+        "Facility Name": "AURIGA POLYMERS INC",
+        "FIPS": "45083",
+        "County or Tribe": "Spartanburg Co",
+        "State": "South Carolina",
+        "Ethylene Oxide": "0.0141537"
+      },
+      "geometry": {
+        "coordinates": [
+          -81.859602,
+          35.034624
+        ],
+        "type": "Point"
+      },
+      "id": "9dbb641fd47c191b6dab4e967d2710e8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "21482911",
+        "Facility Name": "Steritec, Inc.",
+        "FIPS": "48213",
+        "County or Tribe": "Henderson Co",
+        "State": "Texas",
+        "Ethylene Oxide": "3.187107"
+      },
+      "geometry": {
+        "coordinates": [
+          -95.828582,
+          32.218395
+        ],
+        "type": "Point"
+      },
+      "id": "9ee723a02606ed8ec2261ee8c702011d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "4553311",
+        "Facility Name": "Cook, Incorporated",
+        "FIPS": "18105",
+        "County or Tribe": "Monroe Co",
+        "State": "Indiana",
+        "Ethylene Oxide": "0.07432808"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.618737,
+          39.244336
+        ],
+        "type": "Point"
+      },
+      "id": "9fc24523e436ad36b17a938d3051f03d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "13380011",
+        "Facility Name": "FRESNO FACILITY",
+        "FIPS": "48157",
+        "County or Tribe": "Fort Bend Co",
+        "State": "Texas",
+        "Ethylene Oxide": "0.035"
+      },
+      "geometry": {
+        "coordinates": [
+          -95.449967,
+          29.541478
+        ],
+        "type": "Point"
+      },
+      "id": "9fcf323583264d447e8483708eb88892"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "7768011",
+        "Facility Name": "Clean Harbors Env Services Inc",
+        "FIPS": "31105",
+        "County or Tribe": "Kimball Co",
+        "State": "Nebraska",
+        "Ethylene Oxide": "0.0328"
+      },
+      "geometry": {
+        "coordinates": [
+          -103.6563,
+          41.1544
+        ],
+        "type": "Point"
+      },
+      "id": "a0e66d2afe997ef6eb3e99c0a3d644e2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "1893111",
+        "Facility Name": "NorthShore Univ Health System Skokie Hosp",
+        "FIPS": "17031",
+        "County or Tribe": "Cook Co",
+        "State": "Illinois",
+        "Ethylene Oxide": "0.01768"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.740676,
+          42.056274
+        ],
+        "type": "Point"
+      },
+      "id": "a299e96ec74b691cf80b22e35f1300f9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "6560811",
+        "Facility Name": "BOSTON SCIENTIFIC CORP.",
+        "FIPS": "44003",
+        "County or Tribe": "Kent Co",
+        "State": "Rhode Island",
+        "Ethylene Oxide": "0.21423646"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.58427,
+          41.69713
+        ],
+        "type": "Point"
+      },
+      "id": "a4c2f14a309fe6ecc363d983f1f5d413"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "6653611",
+        "Facility Name": "BASF CORP MAULDIN PLANT",
+        "FIPS": "45045",
+        "County or Tribe": "Greenville Co",
+        "State": "South Carolina",
+        "Ethylene Oxide": "0.086325"
+      },
+      "geometry": {
+        "coordinates": [
+          -82.2975,
+          34.77083
+        ],
+        "type": "Point"
+      },
+      "id": "a79ab3d59ce88be28b1d23aacb435e85"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "3049411",
+        "Facility Name": "Isomedix Ops  Inc",
+        "FIPS": "48141",
+        "County or Tribe": "El Paso Co",
+        "State": "Texas",
+        "Ethylene Oxide": "3.23334537"
+      },
+      "geometry": {
+        "coordinates": [
+          -106.289612,
+          31.730221
+        ],
+        "type": "Point"
+      },
+      "id": "a8dbe1963c830487a59a29cfa84efd74"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "10109911",
+        "Facility Name": "STERIGENICS US, LLC",
+        "FIPS": "6071",
+        "County or Tribe": "San Bernardino Co",
+        "State": "California",
+        "Ethylene Oxide": "0.34145243"
+      },
+      "geometry": {
+        "coordinates": [
+          -117.548747,
+          34.057749
+        ],
+        "type": "Point"
+      },
+      "id": "aa0d969beadf8d58c208413481a242d2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "7518611",
+        "Facility Name": "North American Sterilization & Pkg",
+        "FIPS": "34037",
+        "County or Tribe": "Sussex Co",
+        "State": "New Jersey",
+        "Ethylene Oxide": "0.07310502"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.591126,
+          41.128339
+        ],
+        "type": "Point"
+      },
+      "id": "ab9b9bd45fdee93ab227ea5bfea01ce5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "8465611",
+        "Facility Name": "BASF Corp - Geismar Site",
+        "FIPS": "22005",
+        "County or Tribe": "Ascension Par",
+        "State": "Louisiana",
+        "Ethylene Oxide": "6.65819825"
+      },
+      "geometry": {
+        "coordinates": [
+          -90.99833,
+          30.19779
+        ],
+        "type": "Point"
+      },
+      "id": "ae2562c93f6c7c7eeef41d1bf1f80cd7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "21480611",
+        "Facility Name": "American Contract Systems Inc",
+        "FIPS": "4013",
+        "County or Tribe": "Maricopa Co",
+        "State": "Arizona",
+        "Ethylene Oxide": "1.43946"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.969285,
+          33.308433
+        ],
+        "type": "Point"
+      },
+      "id": "b152607f09ed9652f39ed615a93ed45d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "21480811",
+        "Facility Name": "American Contract Systems, Inc.",
+        "FIPS": "19153",
+        "County or Tribe": "Polk Co",
+        "State": "Iowa",
+        "Ethylene Oxide": "1.32759"
+      },
+      "geometry": {
+        "coordinates": [
+          -93.776716,
+          41.675819
+        ],
+        "type": "Point"
+      },
+      "id": "b62036b158e6a81c75674734e14c0a02"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "7445611",
+        "Facility Name": "Shell Chemical LP - Geismar Plant",
+        "FIPS": "22005",
+        "County or Tribe": "Ascension Par",
+        "State": "Louisiana",
+        "Ethylene Oxide": "2.952592"
+      },
+      "geometry": {
+        "coordinates": [
+          -90.98391,
+          30.18751
+        ],
+        "type": "Point"
+      },
+      "id": "b8e5fd5dcba0b17f259f83f638502328"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "6888911",
+        "Facility Name": "Cosmed Of Texas",
+        "FIPS": "48439",
+        "County or Tribe": "Tarrant Co",
+        "State": "Texas",
+        "Ethylene Oxide": "0.49230531"
+      },
+      "geometry": {
+        "coordinates": [
+          -97.047918,
+          32.798971
+        ],
+        "type": "Point"
+      },
+      "id": "bddc01ee356e44a8235435cb8ff4de0c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "14657611",
+        "Facility Name": "B BRAUN MED INC/ALLENTOWN",
+        "FIPS": "42077",
+        "County or Tribe": "Lehigh Co",
+        "State": "Pennsylvania",
+        "Ethylene Oxide": "0.50830573"
+      },
+      "geometry": {
+        "coordinates": [
+          -75.44948,
+          40.641536
+        ],
+        "type": "Point"
+      },
+      "id": "bec1c92c25c0c34eb0eec94a40d24373"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "4926611",
+        "Facility Name": "BAYPORT EO PLANT",
+        "FIPS": "48201",
+        "County or Tribe": "Harris Co",
+        "State": "Texas",
+        "Ethylene Oxide": "2.287"
+      },
+      "geometry": {
+        "coordinates": [
+          -95.080467,
+          29.632292
+        ],
+        "type": "Point"
+      },
+      "id": "bf58683cf0c0cd6be07bd691e4533e6e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "5633711",
+        "Facility Name": "PETROCHEMICAL REFINING",
+        "FIPS": "48039",
+        "County or Tribe": "Brazoria Co",
+        "State": "Texas",
+        "Ethylene Oxide": "0.2627"
+      },
+      "geometry": {
+        "coordinates": [
+          -95.334461,
+          28.958531
+        ],
+        "type": "Point"
+      },
+      "id": "c7857b260a3c04920f31dcd8f155eae1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "4030311",
+        "Facility Name": "Dayton Manufacturing Unit",
+        "FIPS": "48291",
+        "County or Tribe": "Liberty Co",
+        "State": "Texas",
+        "Ethylene Oxide": "0.13468"
+      },
+      "geometry": {
+        "coordinates": [
+          -94.95294,
+          30.0002
+        ],
+        "type": "Point"
+      },
+      "id": "c90026d07f45bb42183d739947d24503"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "6640211",
+        "Facility Name": "Steris-Isomedix  Services",
+        "FIPS": "45083",
+        "County or Tribe": "Spartanburg Co",
+        "State": "South Carolina",
+        "Ethylene Oxide": "0.45800219"
+      },
+      "geometry": {
+        "coordinates": [
+          -81.893595,
+          34.918064
+        ],
+        "type": "Point"
+      },
+      "id": "c94c3da852c53eff5df171b5980d8779"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "7697511",
+        "Facility Name": "BD Medical - Medical Device Fabricating and Drug Manufacturing Plant",
+        "FIPS": "49035",
+        "County or Tribe": "Salt Lake Co",
+        "State": "Utah",
+        "Ethylene Oxide": "0.34595537"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.893888,
+          40.578611
+        ],
+        "type": "Point"
+      },
+      "id": "ca921c07cefbdcd943bd566815994f55"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "7746311",
+        "Facility Name": "Sterigenics U.S. LLC",
+        "FIPS": "37119",
+        "County or Tribe": "Mecklenburg Co",
+        "State": "North Carolina",
+        "Ethylene Oxide": "0.12705765"
+      },
+      "geometry": {
+        "coordinates": [
+          -80.983754,
+          35.137179
+        ],
+        "type": "Point"
+      },
+      "id": "cd3996f263b6400377aa7d3895163c3c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "6925711",
+        "Facility Name": "NORTH MISSISSIPPI MEDICAL CENTER",
+        "FIPS": "28081",
+        "County or Tribe": "Lee Co",
+        "State": "Mississippi",
+        "Ethylene Oxide": "0.0164"
+      },
+      "geometry": {
+        "coordinates": [
+          -88.716394,
+          34.241678
+        ],
+        "type": "Point"
+      },
+      "id": "cd831b5e71ff2158cb1a39101b8a6bc6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "4878811",
+        "Facility Name": "COVESTRO - New Martinsville",
+        "FIPS": "54051",
+        "County or Tribe": "Marshall Co",
+        "State": "West Virginia",
+        "Ethylene Oxide": "0.06"
+      },
+      "geometry": {
+        "coordinates": [
+          -80.830054,
+          39.725891
+        ],
+        "type": "Point"
+      },
+      "id": "ce4d961d5ed8df959f395043b0a2a312"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "5632711",
+        "Facility Name": "DOW TEXAS OPERATIONS FREEPORT",
+        "FIPS": "48039",
+        "County or Tribe": "Brazoria Co",
+        "State": "Texas",
+        "Ethylene Oxide": "0.538"
+      },
+      "geometry": {
+        "coordinates": [
+          -95.406756,
+          28.991736
+        ],
+        "type": "Point"
+      },
+      "id": "d1290c3dd00156fdbc834c39d2d70543"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "5888411",
+        "Facility Name": "Centurion Medical Products",
+        "FIPS": "26093",
+        "County or Tribe": "Livingston Co",
+        "State": "Michigan",
+        "Ethylene Oxide": "0.05790468"
+      },
+      "geometry": {
+        "coordinates": [
+          -83.913919,
+          42.604714
+        ],
+        "type": "Point"
+      },
+      "id": "d35092fdb700f967d9418d9590c1a12f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "4761811",
+        "Facility Name": "BASF CHEMICAL CORP  WHITESTONE FACILITY",
+        "FIPS": "45083",
+        "County or Tribe": "Spartanburg Co",
+        "State": "South Carolina",
+        "Ethylene Oxide": "0.48835"
+      },
+      "geometry": {
+        "coordinates": [
+          -81.814913,
+          34.902655
+        ],
+        "type": "Point"
+      },
+      "id": "d81255932e3964bea1ec389ecb7c478d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "5148911",
+        "Facility Name": "Elite Spice Inc",
+        "FIPS": "32031",
+        "County or Tribe": "Washoe Co",
+        "State": "Nevada",
+        "Ethylene Oxide": "0.04125159"
+      },
+      "geometry": {
+        "coordinates": [
+          -119.724094,
+          39.520248
+        ],
+        "type": "Point"
+      },
+      "id": "d8e7dafeea45f62204bd3fa2109c7a33"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "7451011",
+        "Facility Name": "BCP Ingredients Inc",
+        "FIPS": "22047",
+        "County or Tribe": "Iberville Par",
+        "State": "Louisiana",
+        "Ethylene Oxide": "0.0185"
+      },
+      "geometry": {
+        "coordinates": [
+          -91.0888,
+          30.2488
+        ],
+        "type": "Point"
+      },
+      "id": "dae21a739016fcb0eaf1dcb12a44c492"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "6602111",
+        "Facility Name": "CRODA INC/DRAKETOWN ROAD",
+        "FIPS": "42035",
+        "County or Tribe": "Clinton Co",
+        "State": "Pennsylvania",
+        "Ethylene Oxide": "0.0524"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.47077,
+          41.11416
+        ],
+        "type": "Point"
+      },
+      "id": "db775a32fd0d2ee450630e406f4e1eb4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "10233211",
+        "Facility Name": "STERIGENICS US, INC.",
+        "FIPS": "6037",
+        "County or Tribe": "Los Angeles Co",
+        "State": "California",
+        "Ethylene Oxide": "0.30670226"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.190779,
+          33.996728
+        ],
+        "type": "Point"
+      },
+      "id": "dc25040336c4b973152a1ef8077c230d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "21482811",
+        "Facility Name": "Parter Medical Products Inc",
+        "FIPS": "6037",
+        "County or Tribe": "Los Angeles Co",
+        "State": "California",
+        "Ethylene Oxide": "0.03537428"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.263429,
+          33.8765
+        ],
+        "type": "Point"
+      },
+      "id": "dcc42af4e0d9e995381f5e969e29b003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "4945611",
+        "Facility Name": "CONROE FACILITY",
+        "FIPS": "48339",
+        "County or Tribe": "Montgomery Co",
+        "State": "Texas",
+        "Ethylene Oxide": "2.0144"
+      },
+      "geometry": {
+        "coordinates": [
+          -95.384333,
+          30.313553
+        ],
+        "type": "Point"
+      },
+      "id": "dcc8c078fbfd06bc2d42beb809e00e3d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "5002111",
+        "Facility Name": "ICL-North America Inc - GALLIPOLIS FERRY PLANT",
+        "FIPS": "54053",
+        "County or Tribe": "Mason Co",
+        "State": "West Virginia",
+        "Ethylene Oxide": "0.10168"
+      },
+      "geometry": {
+        "coordinates": [
+          -82.20556,
+          38.77222
+        ],
+        "type": "Point"
+      },
+      "id": "dffd336e64c6af76c49230d738d3932c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "17953911",
+        "Facility Name": "BD (Becton. Dickinson and Company)",
+        "FIPS": "13211",
+        "County or Tribe": "Morgan Co",
+        "State": "Georgia",
+        "Ethylene Oxide": "0.04680796"
+      },
+      "geometry": {
+        "coordinates": [
+          -83.46812,
+          33.561546
+        ],
+        "type": "Point"
+      },
+      "id": "e0a134b5f01b804f7662a00c21869aa3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "21481611",
+        "Facility Name": "Customed, Inc.",
+        "FIPS": "72053",
+        "County or Tribe": "Fajardo Mun",
+        "State": "Puerto Rico",
+        "Ethylene Oxide": "0.04223053"
+      },
+      "geometry": {
+        "coordinates": [
+          -65.661956,
+          18.328359
+        ],
+        "type": "Point"
+      },
+      "id": "e0f32331e739d7d00afc6098631d4b04"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "7703311",
+        "Facility Name": "Midwest Sterilization Corp-Jackson",
+        "FIPS": "29031",
+        "County or Tribe": "Cape Girardeau Co",
+        "State": "Missouri",
+        "Ethylene Oxide": "2.04071177"
+      },
+      "geometry": {
+        "coordinates": [
+          -89.685122,
+          37.371424
+        ],
+        "type": "Point"
+      },
+      "id": "e34ba730814da2429e429ea6b0d0e4b6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "1073211",
+        "Facility Name": "Baxter Healthcare Corporation",
+        "FIPS": "5005",
+        "County or Tribe": "Baxter Co",
+        "State": "Arkansas",
+        "Ethylene Oxide": "0.48498745"
+      },
+      "geometry": {
+        "coordinates": [
+          -92.38827,
+          36.358561
+        ],
+        "type": "Point"
+      },
+      "id": "e369b06d564b67836b5dd8bbf010c750"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "21481111",
+        "Facility Name": "American Contract Systems",
+        "FIPS": "42019",
+        "County or Tribe": "Butler Co",
+        "State": "Pennsylvania",
+        "Ethylene Oxide": "0.74844"
+      },
+      "geometry": {
+        "coordinates": [
+          -80.12333,
+          40.759641
+        ],
+        "type": "Point"
+      },
+      "id": "e519241108c6ae5a1e6ed807caca7e7c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "6564511",
+        "Facility Name": "Solvay USA Inc",
+        "FIPS": "45083",
+        "County or Tribe": "Spartanburg Co",
+        "State": "South Carolina",
+        "Ethylene Oxide": "0.0437"
+      },
+      "geometry": {
+        "coordinates": [
+          -81.84417,
+          34.91861
+        ],
+        "type": "Point"
+      },
+      "id": "e6bac2479d81d29110ecad2b22026a05"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "1013511",
+        "Facility Name": "Tri-State Hospital Supply Corp",
+        "FIPS": "4027",
+        "County or Tribe": "Yuma Co",
+        "State": "Arizona",
+        "Ethylene Oxide": "0.38029466"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.579877,
+          32.648487
+        ],
+        "type": "Point"
+      },
+      "id": "e75edbbf66a70f8d5aad21139b6352e6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "5633411",
+        "Facility Name": "FORMOSA POINT COMFORT PLANT",
+        "FIPS": "48057",
+        "County or Tribe": "Calhoun Co",
+        "State": "Texas",
+        "Ethylene Oxide": "0.7116"
+      },
+      "geometry": {
+        "coordinates": [
+          -96.539903,
+          28.649331
+        ],
+        "type": "Point"
+      },
+      "id": "ea1869ac31a9b24860e946a2a34581bb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "2707711",
+        "Facility Name": "Covidien LP (formerly U S  Surgical Corp /Tyco Healthcare Group)",
+        "FIPS": "9009",
+        "County or Tribe": "New Haven Co",
+        "State": "Connecticut",
+        "Ethylene Oxide": "0.16189705"
+      },
+      "geometry": {
+        "coordinates": [
+          -72.8701,
+          41.3383
+        ],
+        "type": "Point"
+      },
+      "id": "ea5134fe169d025c1a1c5d02fb8b7d15"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "18812811",
+        "Facility Name": "Specialty Products - Institute",
+        "FIPS": "54039",
+        "County or Tribe": "Kanawha Co",
+        "State": "West Virginia",
+        "Ethylene Oxide": "0.4154"
+      },
+      "geometry": {
+        "coordinates": [
+          -81.776423,
+          38.384421
+        ],
+        "type": "Point"
+      },
+      "id": "ea6d57a99acf38aebc79f86c6c948675"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "4953611",
+        "Facility Name": "Evonik Corporation",
+        "FIPS": "55105",
+        "County or Tribe": "Rock Co",
+        "State": "Wisconsin",
+        "Ethylene Oxide": "0.08805"
+      },
+      "geometry": {
+        "coordinates": [
+          -88.9689,
+          42.7802
+        ],
+        "type": "Point"
+      },
+      "id": "f04f6368390d2174e53a938f8d3738b1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "4055911",
+        "Facility Name": "DEER PARK FACILITY",
+        "FIPS": "48201",
+        "County or Tribe": "Harris Co",
+        "State": "Texas",
+        "Ethylene Oxide": "0.0202"
+      },
+      "geometry": {
+        "coordinates": [
+          -95.0937,
+          29.739244
+        ],
+        "type": "Point"
+      },
+      "id": "f0d82a192e2a5dab812d36f4ef4c56be"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "6572011",
+        "Facility Name": "Trigen Laboratories",
+        "FIPS": "24045",
+        "County or Tribe": "Wicomico Co",
+        "State": "Maryland",
+        "Ethylene Oxide": "0.1116871"
+      },
+      "geometry": {
+        "coordinates": [
+          -75.573797,
+          38.402802
+        ],
+        "type": "Point"
+      },
+      "id": "f1a34d99d767276d9e9f398c27a30d44"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "21481011",
+        "Facility Name": "American Contract Systems, Inc.",
+        "FIPS": "39147",
+        "County or Tribe": "Seneca Co",
+        "State": "Ohio",
+        "Ethylene Oxide": "0.03455044"
+      },
+      "geometry": {
+        "coordinates": [
+          -83.219123,
+          41.111076
+        ],
+        "type": "Point"
+      },
+      "id": "f52ea4f242a6ccceab01bbd48b7b919a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "21481911",
+        "Facility Name": "Fort Myers Facility",
+        "FIPS": "12071",
+        "County or Tribe": "Lee Co",
+        "State": "Florida",
+        "Ethylene Oxide": "0.01454112"
+      },
+      "geometry": {
+        "coordinates": [
+          -81.851046,
+          26.573908
+        ],
+        "type": "Point"
+      },
+      "id": "f53af0f3d17a6b9e6bf639d73ca80be3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "6479611",
+        "Facility Name": "EVONIK CORP",
+        "FIPS": "55105",
+        "County or Tribe": "Rock Co",
+        "State": "Wisconsin",
+        "Ethylene Oxide": "0.07745"
+      },
+      "geometry": {
+        "coordinates": [
+          -89.0417,
+          42.6687
+        ],
+        "type": "Point"
+      },
+      "id": "f54ada4a30f14aa6e3e93d28a3c1b14a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "8332511",
+        "Facility Name": "KIMBERLY CLARK CORP",
+        "FIPS": "45003",
+        "County or Tribe": "Aiken Co",
+        "State": "South Carolina",
+        "Ethylene Oxide": "0.01968721"
+      },
+      "geometry": {
+        "coordinates": [
+          -81.8933,
+          33.41343
+        ],
+        "type": "Point"
+      },
+      "id": "f7bc2ed0a7ba2759b87889f364460be9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "3082511",
+        "Facility Name": "Royal Sterilization Sys",
+        "FIPS": "47025",
+        "County or Tribe": "Claiborne Co",
+        "State": "Tennessee",
+        "Ethylene Oxide": "0.8844974"
+      },
+      "geometry": {
+        "coordinates": [
+          -83.630655,
+          36.424253
+        ],
+        "type": "Point"
+      },
+      "id": "f9c9563909bb5f9d95d52a2f1471e9c0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EIS Facility ID": "14997411",
+        "Facility Name": "CLARIANT CLEAR LAKE PLANT",
+        "FIPS": "48201",
+        "County or Tribe": "Harris Co",
+        "State": "Texas",
+        "Ethylene Oxide": "0.117775"
+      },
+      "geometry": {
+        "coordinates": [
+          -95.061025,
+          29.626361
+        ],
+        "type": "Point"
+      },
+      "id": "fdcbd3a387956d2490428db840d7e1f0"
+    }
+  ],
+  "type": "FeatureCollection"
+}

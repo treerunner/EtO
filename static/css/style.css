@@ -1,0 +1,183 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+@import url('./grid.css');
+
+@media (prefers-reduced-motion) {
+  ::view-transition-group(*),
+  ::view-transition-old(*),
+  ::view-transition-new(*) {
+    animation: none !important;
+  }
+}
+
+/* vars */
+:root {
+  --background-color: #f6f6f1;
+  --light-grey-color: #D7D7D2;
+  --grey-color: #A0A09D;
+  --dark-grey-color: #6A6A68;
+  --darker-grey-color: #4F4F4D;
+  --body-color: #181818;
+  --red-color: #DB332B;
+  --green-color: #2B6A00;
+  --base-font-size: 15px;
+  --fluid-typography-ratio: 0.6;
+}
+
+/* RESET */
+/* https://www.joshwcomeau.com/css/custom-css-reset/ */
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+* {
+  margin: 0;
+}
+
+body {
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+}
+
+img, picture, video, canvas, svg {
+  display: block;
+  max-width: 100%;
+}
+
+input, button, textarea, select {
+  font: inherit;
+}
+
+p, h1, h2, h3, h4, h5, h6 {
+  overflow-wrap: break-word;
+}
+
+h1 {
+  font-weight: 500;
+}
+
+h2, h3 {
+    font-weight: 500;
+    font-size: 1em;
+}
+
+#root, #__next {
+  isolation: isolate;
+}
+
+/* end reset */
+
+body {
+  background-color: var(--background-color);
+  color: var(--body-color);
+  /*font-family: "Inter", sans-serif;*/
+  font-family: Helvetica, sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  line-height: 1.4;
+  font-size: var(--base-font-size);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body,
+#svelte,
+main {
+  min-height: 100vh;
+}
+
+#svelte {
+  /*padding-top: calc(13rem + var(--base-font-size));*/
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+}
+
+body p, ul, ol {
+  line-height: 1.4em;
+  margin: 0 0 1.4em 0;
+}
+
+body p:last-child {
+  margin: 0;
+}
+
+a.more {
+  color: var(--body-color);
+  text-decoration: none;
+}
+
+a.more:hover {
+  color: var(--body-color);
+}
+
+a.more:after {
+  font-size: 0.7em;
+  padding-left: 0.15em;
+  content: '\00a0\2192';
+  transition: .3s;
+}
+
+a.more:hover:after {
+  font-size: 0.7em;
+  padding-left: 0.33em;
+  content: '\00a0\2192';
+}
+
+::selection {
+  background: var(--body-color);
+  color: var(--background-color);
+}
+
+@media (max-width: 47.99rem) {
+  .wrapper, .wide-wrapper {
+    margin: 0 4vw;
+  }
+}
+
+@media (min-width: 48rem) and (max-width: 109.99rem) {
+  .wrapper, .wide-wrapper {
+    margin: 0 8vw;
+  }
+}
+
+@media (min-width: 110rem) {
+  .wrapper {
+    max-width: 94rem;
+    margin: 0 auto;
+  }
+
+  .wide-wrapper {
+    margin: 0 8vw;
+  }
+
+}
+
+/*Font Sizing */
+@media (min-width: 48rem) and (max-width: 79.99rem) {
+  body {
+    font-size: calc(var(--base-font-size) + var(--fluid-typography-ratio) * 1vw);
+  }
+}
+
+@media (min-width: 80rem) {
+  body {
+    font-size: calc(var(--base-font-size) + var(--fluid-typography-ratio) * 17px);
+  }
+}
+
+
+@keyframes slide-top {
+  0% {
+      transform: translateY(8vw);
+      opacity: 0;
+  }
+  100% {
+      transform: translateY(0);
+      opacity: 1;
+  }
+}
+
