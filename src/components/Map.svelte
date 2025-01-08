@@ -23,6 +23,9 @@
 
 		map.on('load', () => {
 
+			map.addControl(new mapboxgl.NavigationControl());
+			map.scrollZoom.disable();
+
 			map.addSource('facilities', {
 	            type: 'geojson',
 	            // Use a URL for the value for the `data` property.
@@ -41,13 +44,38 @@
 	                	10,
 	                	['*', ['+', 2, ['to-number', ['get', 'Ethylene Oxide'], 4]], 1],
 	                	13,
-	                	['*', ['+', 2, ['to-number', ['get', 'Ethylene Oxide'], 4]], 10]
+	                	['*', ['+', 2, ['to-number', ['get', 'Ethylene Oxide'], 4]], 8]
 	                	],
 	                'circle-stroke-width': 2,
 	                'circle-color': '#1a1a1a',
-	                'circle-stroke-color': 'white'
+	                'circle-stroke-color': 'transparent',
+	                'circle-opacity': 0.7
 	            }
 	        });
+
+
+	        map.addLayer({
+            'id': 'facilities-labels',
+            'type': 'symbol',
+            "minzoom": 12, // Set zoom level to whatever suits your needs
+            'source': 'facilities',
+            'layout': {
+            		"text-justify": "left",
+        				"text-offset": [7,0],
+                'text-field': [
+                    'format',
+                    ['upcase', ['get', 'Facility Name']],
+                    { 'font-scale': 0.8 },
+                    '\n',
+                    {},
+                    'EtO: ',
+                    { 'font-scale': 0.7 },
+                    ['upcase', ['get', 'Ethylene Oxide']],
+                    { 'font-scale': 0.7 }
+                ],
+                'text-font': ['Open Sans Semibold', 'Arial Unicode MS Bold']
+            }
+        });
 
 	        map.on('click', 'facilities-layer', (e) => {
 	            map.flyTo({center: e.features[0].geometry.coordinates, zoom:12});
@@ -62,6 +90,9 @@
 	        map.on('mouseleave', 'facilities-layer', function () {
 	            map.getCanvas().style.cursor = 'default';
 	        });
+
+	        let allentown = [-75.44948,40.641536];
+	        map.flyTo({center: allentown, zoom:12});
 
 		});
 
